@@ -1,0 +1,1 @@
+Se so o nuemro de quartos for alterado, o grafico ira criar uma linha reta, sem alterar os outros valores.
